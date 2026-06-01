@@ -1,0 +1,15 @@
+{
+  "name": "abhi-algo-backend",
+  "version": "1.0.0",
+  "description": "Binary Trading Signals Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "ws": "^8.16.0",
+    "cors": "^2.8.5",
+    "technicalindicators": "^3.1.0"
+  }
+}
